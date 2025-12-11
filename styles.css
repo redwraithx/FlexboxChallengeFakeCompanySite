@@ -1,3 +1,7 @@
+html {
+    background-color: var(--BaseSiteColor);
+}
+
 body{
     background-color: var(--BaseSiteColor);
     background-size: auto;
