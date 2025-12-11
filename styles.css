@@ -1,11 +1,10 @@
-html {
-    background-color: var(--BaseSiteColor);
-}
-
-body{
+html, body {
     background-color: var(--BaseSiteColor);
     background-size: auto;
     background-blend-mode: darken;
+}
+
+body {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
 
